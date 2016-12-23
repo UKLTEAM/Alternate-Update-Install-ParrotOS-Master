@@ -1,1 +1,3 @@
-# Alternate-Update-Install-ParrotOS-Master
+# alternate-install
+alternate installation script for debian
+.
